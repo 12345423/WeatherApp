@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909788251285",
+    "project_id": "cuaca-bcb7e",
+    "storage_bucket": "cuaca-bcb7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909788251285:android:0964e4337bac237706079c",
+        "android_client_info": {
+          "package_name": "com.modul.cuaca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909788251285-evm8fg895dgek3r4n8m99ib4ut17581g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltI7azsZplKvzRGS7O23UlxHQdxa0DTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909788251285-evm8fg895dgek3r4n8m99ib4ut17581g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
